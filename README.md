@@ -1,6 +1,6 @@
 
-# motion_dector
-This is a python based motion dector using (Opencv module) 
+# motion_detector
+This is a python based motion detector using (Opencv module) 
 
 
 # Library Used ->
